@@ -5,7 +5,7 @@ Real cybersecurity is challenging, the roles of penetration testers and defender
 Project-Venus is a curated arsenal of Python and PowerShell scripts developed to assist both red, blue and purple teams in identifying vulnerabilities, performing comprehensive assessments, and strengthening the defences of digital infrastructures. These scripts have been individually crafted, refined, and tested in real-world environments, with an emphasis on clarity and simplicity in the code.</br>
 </br>
 
-This project is a labour of love and an ongoing effort by Chadi Saliby (aka Gracchi), a cybersecurity researcher dedicated to supporting the community. Project-Venus is designed to serve both offensive and defensive security needs.
+This project is a labour of love and an ongoing effort by Chadi Saliby, a cybersecurity researcher dedicated to supporting the community. Project-Venus is designed to serve both offensive and defensive security needs.
 </br>
 This material is intended solely for educational and research purposes. Always use your knowledge ethically and responsibly.
 </br>
