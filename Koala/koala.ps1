@@ -1,5 +1,5 @@
 ﻿# Koala DFIR Script for Windows 10/11, works on Windows Server 2022.
-# Author: Gracchi - CAS
+# Author: Chadi Saliby
 # This is a comprehensive system information gathering for DFIR investigations. 
 
 param(
@@ -24,7 +24,7 @@ function Write-Output {
 }
 
 Write-Output "======================================"
-Write-Output "KOALA DFIR SCRIPT - GRACCHI"
+Write-Output "KOALA DFIR SCRIPT - Australian Phoenix"
 Write-Output "Analysis Date: $(Get-Date)"
 Write-Output "======================================"
 
